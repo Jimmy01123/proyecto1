@@ -1,0 +1,23 @@
+#cuerpo_login {
+    /*background-color: rgba(150, 231, 194, 0.762);*/
+    background: url('https://i.blogs.es/d5130c/wallpaper-2.png/1366_2000.jpeg');
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    border: solid 5px rgb(0, 153, 255);
+}
+
+#titulo_login {
+    
+    color: rgb(27, 93, 65);
+    text-align: center;
+    display: inline-flex;
+    margin-top: 50px;
+}
+
+#cargando {
+    background-color: rgba(150, 231, 194, 0.762);
+    text-align: center;
+    margin: 30px;
+    border: solid 5px rgb(255, 51, 0);
+}
