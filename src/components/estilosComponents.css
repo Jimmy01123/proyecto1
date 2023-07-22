@@ -1,18 +1,18 @@
 #divCard {
     width: 22rem;
     display: inline-flex;
-    margin: 70px;
-    border: solid 3px rgb(201, 174, 174);
+        margin: 20px;
+    border: solid 1px rgb(201, 174, 174);
     /* background-color: rgba(69, 165, 225, 0.659); */
 }
 
 #nombre_tarjeta {
     text-align: center;
-    color: rgb(41, 75, 186);
+    color: rgb(187, 20, 20);
 }
 
 #seccion_celebridades {
-    background: url('https://i.pinimg.com/originals/1f/69/af/1f69afb7d86d6e54a77cf912b624de32.jpg');
+    background: url('https://w.forfun.com/fetch/4e/4e8b61705aea3fe461bdab75e62e0c8f.jpeg');
 }
 
 /* #boton_favoritos {
@@ -20,5 +20,5 @@
 } */
 
 #lista_detalles {
-    border: green;
+    border: rgb(183, 197, 183);
 }

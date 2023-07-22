@@ -27,7 +27,7 @@ export const Login = () => {
     if (isLoading) {
         return (
             <main id="cargando">
-                <img src="https://media.tenor.com/ABFLLPNvvBwAAAAC/pik-awesomeness-charging.gif" alt="imagen_cargando"></img>
+                <img src="https://media.tenor.com/dNe--afQtEgAAAAM/charging-brown.gif" alt="imagen_cargando"></img>
                 <h5>Cargando...</h5>
             </main>
         )
