@@ -40,11 +40,11 @@ export const Login = () => {
                     col-12">
                     <h2 class="text-center" id="titulo_login">Bienvenido</h2>
                     <img class="img-fluid mx-auto d-block rounded"
-                        src='https://png.pngtree.com/thumb_back/fh260/background/20220507/pngtree-red-event-carpet-show-design-image_1151105.jpg' alt='Celebridad' />
+                        src='https://previews.123rf.com/images/prettyvectors/prettyvectors1702/prettyvectors170200066/72111270-caracteres-de-mujeres-de-celebridades-y-periodistas-ilustraci%C3%B3n-de-dibujos-animados-plano-de.jpg' alt='Celebridad' />
                     <br></br>
-                    <h3> <strong>Accede desde el siguiente botón</strong></h3>
+                    <h3> <strong>LOGIN</strong></h3>
                     <br></br>
-                    <button type="button" class="btn btn-outline-danger" id="boton_login" onClick={handleLogin}>Iniciar Sesión</button>
+                    <button type="button" class="btn btn-dark" id="boton_login" onClick={handleLogin}>Iniciar Sesión</button>
                     <br></br>
                     <br></br>
                     <br></br>

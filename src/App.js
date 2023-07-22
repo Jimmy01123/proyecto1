@@ -18,6 +18,7 @@ function App() {
 
               <Link to='/favorites'><a class="nav-link active" aria-current="page" href="#">Favoritos</a></Link>
               <Link to='/home'>Home</Link>
+              <br></br>
               <Link to='/Logout'>Logout</Link>
 
             </nav>

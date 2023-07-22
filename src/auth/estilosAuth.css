@@ -2,9 +2,9 @@
     /*background-color: rgba(150, 231, 194, 0.762);*/
     background: url('https://i.blogs.es/d5130c/wallpaper-2.png/1366_2000.jpeg');
     text-align: center;
-    margin: 30px;
-    padding: 10px;
-    border: solid 5px rgb(0, 153, 255);
+    margin: 5px;
+    padding: 5px;
+    border: solid 5px rgb(103, 105, 107);
 }
 
 #titulo_login {
